@@ -32,37 +32,98 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
 [██████░░░░] Machine Learning 
 [███████░░░] Tableau      
 ```
-<!-- Tech Skills Card -->
-<div align="center">
-    <h2>🛠 Tech Skills</h2>
-    <table>
-        <tr>
-            <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></td>
-        </tr>
-        <tr>
-            <td><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></td>
-        </tr>
-    </table>
-</div>
-
-<!-- Other Skills Card -->
-<div align="center">
-    <h2>🌟 Other Skills</h2>
-    <table>
-        <tr>
-            <td><img src="https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge&logo=chartjs&logoColor=white" /></td>
-        </tr>
-        <tr>
-            <td><img src="https://img.shields.io/badge/Statistical%20Analysis-FF5733?style=for-the-badge&logo=googleanalytics&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/Problem%20Solving-6C757D?style=for-the-badge&logo=codeforces&logoColor=white" /></td>
-        </tr>
-    </table>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills Showcase</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e2e;
+            color: white;
+            text-align: center;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 50px;
+        }
+        .card {
+            background: #282a36;
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px;
+            text-align: left;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h2 {
+            text-align: center;
+            color: #ffcc00;
+        }
+        .skill {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 10px 0;
+        }
+        .icon {
+            width: 24px;
+            height: 24px;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Skills</h1>
+    <div class="container">
+        <div class="card">
+            <h2>Programming & Databases</h2>
+            <div class="skill"><img class="icon" src="python-icon.png" alt="Python"> Python</div>
+            <div class="skill"><img class="icon" src="sql-icon.png" alt="SQL"> SQL</div>
+        </div>
+        <div class="card">
+            <h2>Machine Learning & AI</h2>
+            <div class="skill"><img class="icon" src="ml-icon.png" alt="Machine Learning"> Machine Learning</div>
+            <div class="skill"><img class="icon" src="prompt-icon.png" alt="Prompt Engineering"> Prompt Engineering</div>
+        </div>
+        <div class="card">
+            <h2>Frameworks & Libraries</h2>
+            <div class="skill"><img class="icon" src="scikit-icon.png" alt="Scikit-learn"> Scikit-learn</div>
+            <div class="skill"><img class="icon" src="pandas-icon.png" alt="Pandas"> Pandas</div>
+            <div class="skill"><img class="icon" src="numpy-icon.png" alt="NumPy"> NumPy</div>
+            <div class="skill"><img class="icon" src="pytorch-icon.png" alt="PyTorch"> PyTorch</div>
+            <div class="skill"><img class="icon" src="sqlalchemy-icon.png" alt="SQLAlchemy"> SQLAlchemy</div>
+        </div>
+        <div class="card">
+            <h2>Cloud & Tools</h2>
+            <div class="skill"><img class="icon" src="aws-icon.png" alt="AWS"> AWS</div>
+            <div class="skill"><img class="icon" src="gcp-icon.png" alt="GCP"> GCP</div>
+            <div class="skill"><img class="icon" src="azure-icon.png" alt="Azure"> Azure</div>
+            <div class="skill"><img class="icon" src="docker-icon.png" alt="Docker"> Docker</div>
+            <div class="skill"><img class="icon" src="rest-api-icon.png" alt="REST API"> REST API</div>
+        </div>
+        <div class="card">
+            <h2>Data Visualization</h2>
+            <div class="skill"><img class="icon" src="powerbi-icon.png" alt="Power BI"> Power BI</div>
+            <div class="skill"><img class="icon" src="tableau-icon.png" alt="Tableau"> Tableau</div>
+            <div class="skill"><img class="icon" src="matplotlib-icon.png" alt="Matplotlib"> Matplotlib</div>
+            <div class="skill"><img class="icon" src="seaborn-icon.png" alt="Seaborn"> Seaborn</div>
+            <div class="skill">Advanced Excel (VBA, Pivot Tables)</div>
+        </div>
+        <div class="card">
+            <h2>Other Skills</h2>
+            <div class="skill"><img class="icon" src="stats-icon.png" alt="Statistical Modeling"> Statistical Modeling</div>
+            <div class="skill"><img class="icon" src="problem-solving-icon.png" alt="Problem Solving"> Problem Solving</div>
+            <div class="skill">Construction & Cost Estimation</div>
+            <div class="skill">Project Management</div>
+            <div class="skill">Budgeting & Cost Control</div>
+        </div>
+    </div>
+</body>
+</html>
 
 ---
 
