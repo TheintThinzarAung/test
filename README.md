@@ -32,77 +32,63 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
 [██████░░░░] Machine Learning 
 [███████░░░] Tableau      
 ```
-## 🛠️ Skills Set  
-
-### 📌 Tech Stack Overview  
+## 🚀 Tech Stack Overview
 
 <table>
   <tr>
-    <td align="center"><b>Programming Languages & Databases</b></td>
-    <td align="center"><b>Machine Learning & AI</b></td>
-    <td align="center"><b>Frameworks & Libraries</b></td>
+    <th>Programming Languages & Databases</th>
+    <th>Machine Learning & AI</th>
+    <th>Frameworks & Libraries</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" alt="TensorFlow"/>  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/PyTorch_logo.png" width="50" alt="PyTorch"/>  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Prompt_Engineering_Icon.png" width="50" alt="Prompt Engineering"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tensorflow_logo.svg" height="50"/>
+      <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Prompt_Engineering_Logo.png" height="50"/>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Scikit_learn_logo_small.svg" width="50" alt="Scikit-Learn"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/SQL_Alchemy_Logo.png" width="50" alt="SQLAlchemy"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Pandas_logo.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/SQLAlchemy_logo.png" height="50"/>
     </td>
   </tr>
-</table>  
+</table>
 
 ---
 
+### **More Tech Skills**
 <table>
   <tr>
-    <td align="center"><b>Cloud & DevOps Tools</b></td>
-    <td align="center"><b>Data Visualization</b></td>
-    <td align="center"><b>Other Skills</b></td>
+    <th>Cloud & DevOps Tools</th>
+    <th>Data Visualization</th>
+    <th>Other Skills</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Azure"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_Cloud_Logo.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" width="50" alt="Tableau"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="50" alt="Power BI"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib"/>
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" alt="Seaborn"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Microsoft_Excel_2013-2019_logo.svg" width="50" alt="Excel"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Microsoft_Power_BI_Logo.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Seaborn_logo.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Microsoft_Excel_2013-2019_logo.svg" height="50"/>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Statistical_Modeling_Icon.svg" width="50" alt="Statistical Modeling"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Problem_Solving_Icon.png" width="50" alt="Problem Solving"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Statistics_Icon.png" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Problem_Solving_Icon.svg" height="50"/>
     </td>
   </tr>
-</table>  
-
----
-
-### 🏗️ **Other Skills**  
-
-- **Construction & Cost Estimation**: Quantity Take-off (QTO), Bill of Quantities (BOQ), Bidding & Tendering, Contract Administration, Variation Orders (VO)  
-- **Software & Tools**: AutoCAD, Bluebeam, On-Screen Takeoff (OST), Adobe Acrobat, Nitro PDF Pro, ProEst, Microsoft Office Suite, Google Calendar  
-- **Data Analytics & Forecasting**: Power BI, SQL, Python, Tableau, Advanced Excel (VBA, Pivot Tables), Matplotlib, Seaborn  
-- **Cloud Services**: AWS, Google Cloud (GCP), Microsoft Azure  
-- **Project Management**: Budgeting, Risk Management, Cost Control, Vendor Negotiation, Cash Flow Analysis, Cost Management  
-
-
+</table>
 ---
 
 ## 📊 Projects Showcase  
