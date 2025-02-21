@@ -32,45 +32,48 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
 [██████░░░░] Machine Learning 
 [███████░░░] Tableau      
 ```
-<!-- Place this at the top of your README.md file -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-## 🛠️ Skills
+# 🚀 **Skills & Expertise**
 
-### Programming Languages & Databases
-<p>
-  <i class="devicon-python-plain" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-mysql-plain" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-postgresql-plain" style="font-size: 40px; margin-right: 10px;"></i>
-</p>
+## 🖥️ Programming Languages & Databases  
+| ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) | **Python** | ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) | **SQL** |
+|---|---|---|---|
 
-### Machine Learning & AI
-<p>
-  <i class="devicon-tensorflow-original" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-pytorch-original" style="font-size: 40px; margin-right: 10px;"></i>
-</p>
+## 🤖 Machine Learning & AI  
+| ![Machine Learning](https://upload.wikimedia.org/wikipedia/commons/3/3c/Machine_Learning_Logo.svg) | **Machine Learning** | ![Prompt Engineering](https://upload.wikimedia.org/wikipedia/commons/d/d3/Prompt-Engineering-Icon.png) | **Prompt Engineering** |
+|---|---|---|---|
 
-### Frameworks & Libraries
-<p>
-  <i class="devicon-numpy-original" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-pandas-original" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-scikit-learn-plain" style="font-size: 40px; margin-right: 10px;"></i>
-</p>
+## 📚 Frameworks & Libraries  
+| ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) | **Scikit-learn** | ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg) | **Pandas** |
+| ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg) | **NumPy** | ![SQLAlchemy](https://upload.wikimedia.org/wikipedia/commons/6/66/SQLAlchemy.svg) | **SQLAlchemy** |
+| ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg) | **PyTorch** |
+|---|---|---|---|
 
-### Cloud & DevOps Tools
-<p>
-  <i class="devicon-amazonwebservices-original" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-googlecloud-plain" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-azure-plain" style="font-size: 40px; margin-right: 10px;"></i>
-  <i class="devicon-docker-plain" style="font-size: 40px; margin-right: 10px;"></i>
-</p>
+## ☁️ Cloud & Tools  
+| ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg) | **AWS** | ![GCP](https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_Cloud_Logo.svg) | **GCP** |
+| ![Azure](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg) | **Azure** | ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg) | **Docker** |
+| ![REST API](https://upload.wikimedia.org/wikipedia/commons/d/d2/RestApi-icon.png) | **REST API** |
+|---|---|---|---|
 
-### Data Visualization
-<p>
-  <!-- Devicon may not have specific icons for Tableau and Power BI -->
-  <!-- You can use generic icons or find SVGs to include here -->
-  <i class="devicon-python-plain" style="font-size: 40px; margin-right: 10px;"></i> <!-- Placeholder for Matplotlib -->
-  <i class="devicon-python-plain" style="font-size: 40px; margin-right: 10px;"></i> <!-- Placeholder for Seaborn -->
-</p>
+## 📊 Data Visualization  
+| ![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png) | **Tableau** | ![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg) | **Power BI** |
+| ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg) | **Matplotlib** | ![Seaborn](https://seaborn.pydata.org/_images/logo-tall-lightbg.svg) | **Seaborn** |
+|---|---|---|---|
+
+## 📊 Advanced Excel  
+| **Advanced Excel (VBA, Pivot Tables)** |
+|---|
+
+## 🔍 Other Skills  
+| ![Statistical Modeling](https://upload.wikimedia.org/wikipedia/commons/d/d4/Statistical-Modeling-Icon.png) | **Statistical Modeling** | ![Problem Solving](https://upload.wikimedia.org/wikipedia/commons/a/a7/Problem-Solving-Icon.png) | **Problem Solving** |
+|---|---|---|---|
+
+## 🏗️ Construction & Cost Estimation  
+- **Quantity Take-off (QTO), Bill of Quantities (BOQ), Bidding & Tendering, Contract Administration, Variation Orders (VO)**  
+- **Software & Tools:** AutoCAD, Bluebeam, On-Screen Takeoff (OST), Adobe Acrobat, Nitro PDF Pro, ProEst, Microsoft Office Suite, Google Calendar  
+- **Data Analytics & Forecasting:** Power BI, SQL, Python, Tableau, Advanced Excel (VBA, Pivot Tables), Matplotlib, Seaborn  
+- **Cloud Services:** AWS, Google Cloud (GCP), Microsoft Azure  
+- **Project Management:** Budgeting, Risk Management, Cost Control, Vendor Negotiation, Cash Flow Analysis, Cost Management  
+
 
 ---
 
