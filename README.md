@@ -32,63 +32,46 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
 [██████░░░░] Machine Learning 
 [███████░░░] Tableau      
 ```
-## 🚀 Tech Stack Overview
+<!-- Place this at the top of your README.md file -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+## 🛠️ Skills
 
-<table>
-  <tr>
-    <th>Programming Languages & Databases</th>
-    <th>Machine Learning & AI</th>
-    <th>Frameworks & Libraries</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tensorflow_logo.svg" height="50"/>
-      <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Prompt_Engineering_Logo.png" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Pandas_logo.svg" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/SQLAlchemy_logo.png" height="50"/>
-    </td>
-  </tr>
-</table>
+### Programming Languages & Databases
+<p>
+  <i class="devicon-python-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-mysql-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-postgresql-plain" style="font-size: 40px; margin-right: 10px;"></i>
+</p>
 
----
+### Machine Learning & AI
+<p>
+  <i class="devicon-tensorflow-original" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-pytorch-original" style="font-size: 40px; margin-right: 10px;"></i>
+</p>
 
-### **More Tech Skills**
-<table>
-  <tr>
-    <th>Cloud & DevOps Tools</th>
-    <th>Data Visualization</th>
-    <th>Other Skills</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_Cloud_Logo.svg" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Microsoft_Power_BI_Logo.svg" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Seaborn_logo.svg" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Microsoft_Excel_2013-2019_logo.svg" height="50"/>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Statistics_Icon.png" height="50"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Problem_Solving_Icon.svg" height="50"/>
-    </td>
-  </tr>
-</table>
+### Frameworks & Libraries
+<p>
+  <i class="devicon-numpy-original" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-pandas-original" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-scikit-learn-plain" style="font-size: 40px; margin-right: 10px;"></i>
+</p>
+
+### Cloud & DevOps Tools
+<p>
+  <i class="devicon-amazonwebservices-original" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-googlecloud-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-azure-plain" style="font-size: 40px; margin-right: 10px;"></i>
+  <i class="devicon-docker-plain" style="font-size: 40px; margin-right: 10px;"></i>
+</p>
+
+### Data Visualization
+<p>
+  <!-- Devicon may not have specific icons for Tableau and Power BI -->
+  <!-- You can use generic icons or find SVGs to include here -->
+  <i class="devicon-python-plain" style="font-size: 40px; margin-right: 10px;"></i> <!-- Placeholder for Matplotlib -->
+  <i class="devicon-python-plain" style="font-size: 40px; margin-right: 10px;"></i> <!-- Placeholder for Seaborn -->
+</p>
+
 ---
 
 ## 📊 Projects Showcase  
