@@ -32,45 +32,72 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
 [██████░░░░] Machine Learning 
 [███████░░░] Tableau      
 ```
-## 🛠 Skills
+## 🛠️ Skills Set  
 
-### 💻 Programming Languages & Databases  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+### 📌 Tech Stack Overview  
 
-### 🤖 Machine Learning & AI  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-005571?style=for-the-badge&logo=openai&logoColor=white)  
+<table>
+  <tr>
+    <td align="center"><b>Programming Languages & Databases</b></td>
+    <td align="center"><b>Machine Learning & AI</b></td>
+    <td align="center"><b>Frameworks & Libraries</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="Machine Learning"/>  
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Prompt_Engineering_Icon.png" width="50" alt="Prompt Engineering"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/>
+    </td>
+  </tr>
+</table>  
 
-### 📚 Frameworks & Libraries  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white)  
+---
 
-### ☁️ Cloud & Tools  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=postman&logoColor=white)  
+<table>
+  <tr>
+    <td align="center"><b>Cloud & Tools</b></td>
+    <td align="center"><b>Data Visualization</b></td>
+    <td align="center"><b>Other Skills</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Azure"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Postman-logo.png" width="50" alt="REST API"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" alt="Tableau"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="50" alt="Power BI" width="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" alt="Seaborn"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Microsoft_Excel_2013-2019_logo.svg" width="50" alt="Excel"/>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Statistical_Modeling_Icon.svg" width="50" alt="Statistical Modeling"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Problem_Solving_Icon.png" width="50" alt="Problem Solving"/>
+    </td>
+  </tr>
+</table>  
 
-### 📊 Data Visualization  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+---
 
 ### 🏗️ Other Skills  
-- **Statistical Modeling** 📊  
-- **Problem Solving** 🧠  
-- **Construction & Cost Estimation** (QTO, BOQ, Bidding & Tendering, Contract Administration, Variation Orders) 🏗️  
-- **Software & Tools** (AutoCAD, Bluebeam, On-Screen Takeoff (OST), Adobe Acrobat, Nitro PDF Pro, ProEst, Microsoft Office Suite, Google Calendar) 💾  
-- **Data Analytics & Forecasting** (Power BI, SQL, Python, Tableau, Advanced Excel, Matplotlib, Seaborn) 📈  
-- **Cloud Services** (AWS, Google Cloud (GCP), Microsoft Azure) ☁️  
-- **Project Management** (Budgeting, Risk Management, Cost Control, Vendor Negotiation, Cash Flow Analysis, Cost Management) 📑  
+
+- **Construction & Cost Estimation**: Quantity Take-off (QTO), Bill of Quantities (BOQ), Bidding & Tendering, Contract Administration, Variation Orders (VO)  
+- **Software & Tools**: AutoCAD, Bluebeam, On-Screen Takeoff (OST), Adobe Acrobat, Nitro PDF Pro, ProEst, Microsoft Office Suite, Google Calendar  
+- **Data Analytics & Forecasting**: Power BI, SQL, Python, Tableau, Advanced Excel (VBA, Pivot Tables), Matplotlib, Seaborn  
+- **Cloud Services**: AWS, Google Cloud (GCP), Microsoft Azure  
+- **Project Management**: Budgeting, Risk Management, Cost Control, Vendor Negotiation, Cash Flow Analysis, Cost Management  
 
 ---
 
