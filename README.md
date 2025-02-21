@@ -32,104 +32,75 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
 [██████░░░░] Machine Learning 
 [███████░░░] Tableau      
 ```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills Showcase</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1e1e2e;
-            color: white;
-            text-align: center;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            justify-content: center;
-            align-items: stretch;
-            max-width: 1200px;
-            margin: auto;
-        }
-        .card {
-            background: #282a36;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            transition: transform 0.3s ease-in-out;
-        }
-        .card:hover {
-            transform: scale(1.05);
-        }
-        h2 {
-            text-align: center;
-            color: #ffcc00;
-        }
-        .skill {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin: 10px 0;
-        }
-        .icon {
-            width: 24px;
-            height: 24px;
-        }
-    </style>
-</head>
-<body>
-    <h1>My Skills</h1>
-    <div class="container">
-        <div class="card">
-            <h2>Programming & Databases</h2>
-            <div class="skill"><img class="icon" src="python-icon.png" alt="Python"> Python</div>
-            <div class="skill"><img class="icon" src="sql-icon.png" alt="SQL"> SQL</div>
-        </div>
-        <div class="card">
-            <h2>Machine Learning & AI</h2>
-            <div class="skill"><img class="icon" src="ml-icon.png" alt="Machine Learning"> Machine Learning</div>
-            <div class="skill"><img class="icon" src="prompt-icon.png" alt="Prompt Engineering"> Prompt Engineering</div>
-        </div>
-        <div class="card">
-            <h2>Frameworks & Libraries</h2>
-            <div class="skill"><img class="icon" src="scikit-icon.png" alt="Scikit-learn"> Scikit-learn</div>
-            <div class="skill"><img class="icon" src="pandas-icon.png" alt="Pandas"> Pandas</div>
-            <div class="skill"><img class="icon" src="numpy-icon.png" alt="NumPy"> NumPy</div>
-            <div class="skill"><img class="icon" src="pytorch-icon.png" alt="PyTorch"> PyTorch</div>
-            <div class="skill"><img class="icon" src="sqlalchemy-icon.png" alt="SQLAlchemy"> SQLAlchemy</div>
-        </div>
-        <div class="card">
-            <h2>Cloud & Tools</h2>
-            <div class="skill"><img class="icon" src="aws-icon.png" alt="AWS"> AWS</div>
-            <div class="skill"><img class="icon" src="gcp-icon.png" alt="GCP"> GCP</div>
-            <div class="skill"><img class="icon" src="azure-icon.png" alt="Azure"> Azure</div>
-            <div class="skill"><img class="icon" src="docker-icon.png" alt="Docker"> Docker</div>
-            <div class="skill"><img class="icon" src="rest-api-icon.png" alt="REST API"> REST API</div>
-        </div>
-        <div class="card">
-            <h2>Data Visualization</h2>
-            <div class="skill"><img class="icon" src="powerbi-icon.png" alt="Power BI"> Power BI</div>
-            <div class="skill"><img class="icon" src="tableau-icon.png" alt="Tableau"> Tableau</div>
-            <div class="skill"><img class="icon" src="matplotlib-icon.png" alt="Matplotlib"> Matplotlib</div>
-            <div class="skill"><img class="icon" src="seaborn-icon.png" alt="Seaborn"> Seaborn</div>
-            <div class="skill">Advanced Excel (VBA, Pivot Tables)</div>
-        </div>
-        <div class="card">
-            <h2>Other Skills</h2>
-            <div class="skill"><img class="icon" src="stats-icon.png" alt="Statistical Modeling"> Statistical Modeling</div>
-            <div class="skill"><img class="icon" src="problem-solving-icon.png" alt="Problem Solving"> Problem Solving</div>
-            <div class="skill">Construction & Cost Estimation</div>
-            <div class="skill">Project Management</div>
-            <div class="skill">Budgeting & Cost Control</div>
-        </div>
-    </div>
-</body>
-</html>
+## 🛠️ Skills Set  
+
+### 🖥️ Programming Languages & Databases  
+<p align="left">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>  
+</p>  
+
+### 🤖 Machine Learning & AI  
+<p align="left">  
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>  
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>  
+</p>  
+
+### 📚 Frameworks & Libraries  
+<p align="left">  
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>  
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLAlchemy"/>  
+</p>  
+
+### ☁️ Cloud & Tools  
+<p align="left">  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>  
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>  
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>  
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>  
+</p>  
+
+### 📊 Data Visualization  
+<p align="left">  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>  
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>  
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>  
+  <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>  
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Excel"/>  
+</p>  
+
+### 🔧 Other Skills  
+<p align="left">  
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-8E44AD?style=for-the-badge&logo=python&logoColor=white" alt="Statistical Modeling"/>  
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF5733?style=for-the-badge&logo=thinkpad&logoColor=white" alt="Problem Solving"/>  
+</p>  
+
+### 🏗️ Construction & Cost Estimation  
+- Quantity Take-off (QTO), Bill of Quantities (BOQ)  
+- Bidding & Tendering, Contract Administration  
+- Variation Orders (VO)  
+
+### 🛠️ Software & Tools  
+- AutoCAD, Bluebeam, On-Screen Takeoff (OST)  
+- Adobe Acrobat, Nitro PDF Pro, ProEst  
+- Microsoft Office Suite, Google Calendar  
+
+### 📈 Data Analytics & Forecasting  
+- Power BI, SQL, Python, Tableau  
+- Advanced Excel (VBA, Pivot Tables)  
+- Matplotlib, Seaborn  
+
+### ☁️ Cloud Services  
+- AWS, Google Cloud (GCP), Microsoft Azure  
+
+### 📋 Project Management  
+- Budgeting, Risk Management, Cost Control  
+- Vendor Negotiation, Cash Flow Analysis  
+- Cost Management  
 
 
 ---
