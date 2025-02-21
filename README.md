@@ -44,21 +44,27 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
             background-color: #1e1e2e;
             color: white;
             text-align: center;
+            margin: 0;
+            padding: 20px;
         }
         .container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 20px;
-            margin-top: 50px;
+            justify-content: center;
+            align-items: stretch;
+            max-width: 1200px;
+            margin: auto;
         }
         .card {
             background: #282a36;
             padding: 20px;
             border-radius: 10px;
-            width: 300px;
-            text-align: left;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease-in-out;
+        }
+        .card:hover {
+            transform: scale(1.05);
         }
         h2 {
             text-align: center;
@@ -124,6 +130,7 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
     </div>
 </body>
 </html>
+
 
 ---
 
