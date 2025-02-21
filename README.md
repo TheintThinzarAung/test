@@ -45,16 +45,19 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>  
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="Machine Learning"/>  
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" alt="TensorFlow"/>  
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/PyTorch_logo.png" width="50" alt="PyTorch"/>  
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Prompt_Engineering_Icon.png" width="50" alt="Prompt Engineering"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Scikit_learn_logo_small.svg" width="50" alt="Scikit-Learn"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/SQL_Alchemy_Logo.png" width="50" alt="SQLAlchemy"/>
     </td>
   </tr>
 </table>  
@@ -63,7 +66,7 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
 
 <table>
   <tr>
-    <td align="center"><b>Cloud & Tools</b></td>
+    <td align="center"><b>Cloud & DevOps Tools</b></td>
     <td align="center"><b>Data Visualization</b></td>
     <td align="center"><b>Other Skills</b></td>
   </tr>
@@ -73,11 +76,11 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Azure"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Postman-logo.png" width="50" alt="REST API"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" alt="Tableau"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="50" alt="Power BI" width="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" width="50" alt="Tableau"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="50" alt="Power BI"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib"/>
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" alt="Seaborn"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Microsoft_Excel_2013-2019_logo.svg" width="50" alt="Excel"/>
@@ -91,13 +94,14 @@ Welcome to my interactive **GitHub Dashboard**! 🚀 Explore my profile as if yo
 
 ---
 
-### 🏗️ Other Skills  
+### 🏗️ **Other Skills**  
 
 - **Construction & Cost Estimation**: Quantity Take-off (QTO), Bill of Quantities (BOQ), Bidding & Tendering, Contract Administration, Variation Orders (VO)  
 - **Software & Tools**: AutoCAD, Bluebeam, On-Screen Takeoff (OST), Adobe Acrobat, Nitro PDF Pro, ProEst, Microsoft Office Suite, Google Calendar  
 - **Data Analytics & Forecasting**: Power BI, SQL, Python, Tableau, Advanced Excel (VBA, Pivot Tables), Matplotlib, Seaborn  
 - **Cloud Services**: AWS, Google Cloud (GCP), Microsoft Azure  
 - **Project Management**: Budgeting, Risk Management, Cost Control, Vendor Negotiation, Cash Flow Analysis, Cost Management  
+
 
 ---
 
